@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinsrq&label=Profile%20views&color=0e75b6&style=flat" alt="kevinsrq" /> </p>
 
-- 🧰 I’m currently work in **statistic and machine learning models for credit score**
+- 🧰 I currently work in **statistic and machine learning models for credit score**
 
 - 🔭 I’m currently doing research in **Large Language Models (LLMs) for Code Generation**
 
